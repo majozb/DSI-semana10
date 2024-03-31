@@ -1,16 +1,16 @@
 # Practica 10
 
-<!-- <p align="center">
-  <a href="https://coveralls.io/github/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-majozb?branch=main">
-    <img src="https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-majozb/badge.svg?branch=main">
+<p align="center">
+  <a href="https://coveralls.io/github/majozb/DSI-semana10?branch=main">
+    <img src="https://coveralls.io/repos/github/majozb/DSI-semana10/badge.svg?branch=main">
   </a>
-  <a href="https://github.com/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-majozb/actions/workflows/node.js.yml">
-    <img src="https://github.com/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-majozb/actions/workflows/node.js.yml/badge.svg">
+  <a href="https://github.com/majozb/DSI-semana10/actions/workflows/node.js.yml">
+    <img src="https://github.com/majozb/DSI-semana10/actions/workflows/node.js.yml/badge.svg">
   </a>
-  <a href="https://sonarcloud.io/summary/new_code?id=ULL-ESIT-INF-DSI-2324_ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-majozb">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=ULL-ESIT-INF-DSI-2324_ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-majozb&metric=alert_status">
+  <a href="https://sonarcloud.io/summary/new_code?id=majozb_DSI-semana10">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=majozb_DSI-semana10&metric=alert_status">
   </a>
-</p> -->
+</p>
 
 - Nombres y apellidos: Mariajose Zuloeta Brito
 - alu0101516608
